@@ -1,0 +1,9 @@
+C:/Users/ARGE/Desktop/Cpp/Cpp/build/CMakeFiles/Experimental.dir
+C:/Users/ARGE/Desktop/Cpp/Cpp/build/CMakeFiles/Nightly.dir
+C:/Users/ARGE/Desktop/Cpp/Cpp/build/CMakeFiles/Continuous.dir
+C:/Users/ARGE/Desktop/Cpp/Cpp/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/ARGE/Desktop/Cpp/Cpp/build/CMakeFiles/CPP.dir
+C:/Users/ARGE/Desktop/Cpp/Cpp/build/CMakeFiles/PACKAGE.dir
+C:/Users/ARGE/Desktop/Cpp/Cpp/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/ARGE/Desktop/Cpp/Cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ARGE/Desktop/Cpp/Cpp/build/CMakeFiles/ZERO_CHECK.dir

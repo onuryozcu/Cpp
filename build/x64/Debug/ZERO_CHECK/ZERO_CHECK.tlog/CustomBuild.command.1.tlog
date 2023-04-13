@@ -1,0 +1,10 @@
+^C:\USERS\ARGE\DESKTOP\CPP\CPP\BUILD\CMAKEFILES\EF75A2AC446127819A6BD11905F30BD2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ARGE/Desktop/Cpp/Cpp -BC:/Users/ARGE/Desktop/Cpp/Cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ARGE/Desktop/Cpp/Cpp/build/CPP.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
