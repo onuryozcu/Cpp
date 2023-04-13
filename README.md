@@ -43,3 +43,10 @@ Short (Ctrl + shft + P) or View (Command Palette..)
 |  🌖 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 |  🌖 include(CPack)
 <!--  -->
+
+# Environment Variables
+
+👾The paths of the opencv library must be introduced to the system.
+
+- `...\opencv\build\x64\vc15\bin`
+- `...\opencv\build\x64\vc15\lib`
