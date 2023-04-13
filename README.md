@@ -16,4 +16,4 @@
 - `CMake`
 - `CMake Tools`
 - `GitHub Pull Requests and Issues`
-
+- `GitLens — Git supercharged`
