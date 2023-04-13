@@ -1,2 +1,1 @@
-# C-
-OpenCV C++
+#OpenCV C++
